@@ -140,6 +140,9 @@
     font-family: 'Maven Pro';
 }
 
+::-webkit-scrollbar {
+    width: 15px;
+
 @media only screen and (max-width: 1140px) {
     .navbar {
         flex-direction: column;
